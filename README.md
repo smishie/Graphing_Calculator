@@ -1,7 +1,7 @@
 
 # Work Report
 
-## Name: <ins> your name goes here </ins>
+## Name: <ins> Michelle Lau </ins>
 
 ## Features:
 
