@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "bouncing_bubbles",
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tcc": "cpp",
+			"vector": "cpp",
+			"ostream": "cpp",
+			"system_error": "cpp"
+		}
+	}
+}
