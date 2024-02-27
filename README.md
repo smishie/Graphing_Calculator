@@ -7,13 +7,23 @@ History is saved when the program is closed. The user may navigate the graph wit
 
 ## Key Controls
 Key: k key
+<br>
 Pan Left: left arrow
+<br>
 Pan Right: right arrow
+<br>
 Pan Up: up arrow
+<br>
 Pan Down: down arrow
+<br>
 Zoom In: i key
+<br>
 Zoom Out: o key
+<br>
 Reset Origin: r key
+<br>
 Exit: ESC key
+<br>
 Input New Equation: TAB key
+<br>
 Clear History: c key
