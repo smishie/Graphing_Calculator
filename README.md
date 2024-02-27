@@ -1,50 +1,19 @@
 
-# Work Report
+# Graphing Calculator
 
-## Name: <ins> Michelle Lau </ins>
+## Overview
+Utilizes SFML to create a user interface that allows the user to input a customizable equation to be graphed. 
+History is saved when the program is closed. The user may navigate the graph with keyboard controls and view past equations with a click of a button. Displays the domain on the left and right of the graph borders. Algorithm implements trigonometric functions.
 
-## Features:
-
-- Not Implemented:
-  - what features have been implemented
-
-<br><br>
-
-- Implemented:
-  - what has been implemented
-
-<br><br>
-
-- Partly implemented:
-  - what features have not been implemented
-
-<br><br>
-
-- Bugs
-  - Known bugs
-
-<br><br>
-
-# Reflections:
-
-- Any thoughts you may have and would like to share.
-
-# **output**
-<pre>
-<br/><br/><br/><br/>
-## Delete this line and paste the output of your basic test and then testB here
-</pre>
-
-
-<br/><br/>
-
-# basic_test.cpp output:
-<pre>
-<br/><br/><br/><br/>
-</pre>
-# testB.cpp output:
-<pre>
-<br/><br/><br/><br/>
-</pre>
-
-
+## Key Controls
+Key: k key
+Pan Left: left arrow
+Pan Right: right arrow
+Pan Up: up arrow
+Pan Down: down arrow
+Zoom In: i key
+Zoom Out: o key
+Reset Origin: r key
+Exit: ESC key
+Input New Equation: TAB key
+Clear History: c key
